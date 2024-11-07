@@ -1,7 +1,7 @@
 version: '3'
 services:
   hyperf-skeleton:
-    container_name: meuAtelie
+    container_name: meuatelie
     image: hyperf-skeleton
     build:
       context: .
